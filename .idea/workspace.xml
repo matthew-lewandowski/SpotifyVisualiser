@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8908c29c-020a-4cb2-9fd7-4101d1456498" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/loggedIn/LoggedIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/loggedIn/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoadingSpinner/LoadingSpinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/loggedIn/play-bar/PlayBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/loggedIn/LoggedIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/loggedIn/LoggedIn.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,9 +48,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/loggedIn" />
       <recent name="$PROJECT_DIR$/src/spotify/public" />
       <recent name="$PROJECT_DIR$/src/spotify" />
     </key>
@@ -83,7 +84,8 @@
       <updated>1589464846564</updated>
       <workItem from="1589464847897" duration="3566000" />
       <workItem from="1589551886772" duration="508000" />
-      <workItem from="1589710804970" duration="9179000" />
+      <workItem from="1589710804970" duration="9982000" />
+      <workItem from="1589760082089" duration="30809000" />
     </task>
     <servers />
   </component>
@@ -91,13 +93,23 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2258" y="4" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589711495507">
+    <state x="2258" y="4" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589806205760">
       <screen x="1680" y="-506" width="3440" height="1417" />
     </state>
-    <state x="2258" y="4" key="#com.intellij.fileTypes.FileTypeChooser/1680.-506.3440.1417/0.23.1680.1027@1680.-506.3440.1417" timestamp="1589711495507" />
+    <state x="282" y="393" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1589766779226" />
+    <state x="2258" y="4" key="#com.intellij.fileTypes.FileTypeChooser/1680.-506.3440.1417/0.23.1680.1027@1680.-506.3440.1417" timestamp="1589806205760" />
     <state x="2256" y="-52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589712380753">
       <screen x="1680" y="-506" width="3440" height="1417" />
     </state>
     <state x="2256" y="-52" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.-506.3440.1417/0.23.1680.1027@1680.-506.3440.1417" timestamp="1589712380753" />
+    <state x="2027" y="-167" key="SettingsEditor" timestamp="1589759053542">
+      <screen x="1680" y="-506" width="3440" height="1417" />
+    </state>
+    <state x="2027" y="-167" key="SettingsEditor/1680.-506.3440.1417/0.23.1680.1027@1680.-506.3440.1417" timestamp="1589759053542" />
+    <state x="2710" y="-193" width="1372" height="933" key="search.everywhere.popup" timestamp="1589891123253">
+      <screen x="1680" y="-506" width="3440" height="1417" />
+    </state>
+    <state x="503" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1589767893684" />
+    <state x="2710" y="-193" width="1372" height="933" key="search.everywhere.popup/1680.-506.3440.1417/0.23.1680.1027@1680.-506.3440.1417" timestamp="1589891123253" />
   </component>
 </project>

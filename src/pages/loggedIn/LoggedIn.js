@@ -1,9 +1,21 @@
 import React from "react";
+import PlayBar from "./play-bar/PlayBar";
 
-function LoggedIn() {
+const loggedInStyle = {
+    display: "flex",
+    flexDirection: "column",
+    height: "100%",
+};
+const tempStyle = {
+    height: "85%",
+};
+
+function LoggedIn(props) {
     return (
-        <div className="logged-in-container">
-            <p>I am now logged in</p>
+        <div style={loggedInStyle}>
+            <div style={tempStyle}>temporary main div</div>
+            <PlayBar
+            />
         </div>
     )
 }
